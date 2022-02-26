@@ -1,6 +1,7 @@
 @font-face {
   font-family: "futura_stdlight";
-  src: url("font/futurastd-light-webfont-webfont.woff2") format("woff2"), url("font/futurastd-light-webfont-webfont.woff") format("woff");
+  src: url("font/futurastd-light-webfont-webfont.woff2") format("woff2"),
+    url("font/futurastd-light-webfont-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
@@ -27,10 +28,10 @@ html {
 }
 
 body {
-  font: 100%/1.5 "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif;
+  font: 100%/1.5 "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans",
+    "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif;
   color: var(--dark-gray);
   max-width: var(--max-width);
-  overflow: hidden;
 }
 @media (min-width: 46.25em) {
   body {
@@ -101,7 +102,7 @@ header a.beta {
   font-size: 1.5rem;
   position: absolute;
   top: -20px;
-  right: 10px;
+  right: 20px;
   width: 85px;
   height: 85px;
   line-height: 85px;
