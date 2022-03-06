@@ -1,0 +1,27 @@
+{
+  "author": {
+    "firstName": "Amy",
+    "lastName": "Jiang",
+    "email": "random@gmail.com",
+    "twitterHandle": "@amyjiangsu",
+    "about": ""
+  },
+  "socials": {
+    "linkedin": "https://linkedin.com/in/amyjiangsu",
+    "github": "https://github.com/amyjiangsu"
+  },
+  "pageMetadata": {
+    "home": {
+      "content": "Nicholson & Jiang 2021 Year Book"
+    },
+    "gallery": {
+      "content": "A collection of images from Nicholson & Jiang 2021 Year Book"
+    },
+    "featured": {
+      "content": "from Nicholson & Jiang 2021 Year Book"
+    },
+    "about": {
+      "content": "A page about us..."
+    }
+  }
+}
